@@ -1,0 +1,17 @@
+# Конфигурационный файл эмулятора OS Shell
+# Формат: YAML
+
+# Путь к виртуальной файловой системе
+vfs_path: "./vfs_data"
+
+# Путь к лог-файлу (формат JSON)
+log_file: "./emulator_log.json"
+
+# Путь к стартовому скрипту
+start_script: "./startup.sh"
+
+# Дополнительные настройки
+settings:
+  prompt_color: "green"
+  show_welcome: true
+  max_history: 100

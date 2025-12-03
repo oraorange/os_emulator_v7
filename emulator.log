@@ -1,0 +1,43 @@
+{"timestamp": "2025-12-03T10:58:14.207452", "command": "exit", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:58:57.556510", "command": "1s", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:58:59.564630", "command": "cd", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:04.739116", "command": null, "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:16.457010", "command": "log_file", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:26.460589", "command": "exit", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:44.307922", "command": "echo", "args": ["\"Запуск", "стартового", "скрипта...\""], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:44.308057", "command": "echo", "args": ["\"Добро", "пожаловать", "в", "эмулятор", "командной", "строки!\""], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:44.308125", "command": "1s", "args": ["-la"], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:44.308185", "command": "cd", "args": ["/home"], "user": "kirill"}
+{"timestamp": "2025-12-03T10:59:44.308240", "command": "echo", "args": ["\"Тестирование", "завершено\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:00:01.369549", "command": "chmod", "args": ["+x", "test_runner.sh"], "user": "kirill"}
+{"timestamp": "2025-12-03T11:00:03.342503", "command": "./test_runner.sh", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:00:06.585389", "command": "chmod", "args": ["+x", "test_runner.sh"], "user": "kirill"}
+{"timestamp": "2025-12-03T11:01:43.242417", "command": "./test_runner.shclesr", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:01:46.109930", "command": "clear", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:01:49.841252", "command": "exit", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:02:37.576365", "command": "vfs_path", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:03:01.774859", "command": "exit", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.603915", "command": "echo", "args": ["\"========================================\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604054", "command": "echo", "args": ["\"Добро", "пожаловать", "в", "эмулятор", "командной", "строки!\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604120", "command": "echo", "args": ["\"Версия", "1.0", "|", "Вариант", "7\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604169", "command": "echo", "args": ["\"========================================\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604212", "command": "echo", "args": ["\"\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604255", "command": "echo", "args": ["\"Системная", "информация:\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604319", "command": "echo", "args": ["\"Пользователь:", "kirill\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604360", "command": "echo", "args": ["\"Хост:", "$(hostname)\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604397", "command": "echo", "args": ["\"\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604435", "command": "echo", "args": ["\"Тестирование", "базовых", "команд:\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604473", "command": "echo", "args": ["\"1.", "Команда", "1s:\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604513", "command": "1s", "args": ["-la"], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604551", "command": "echo", "args": ["\"\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604588", "command": "echo", "args": ["\"2.", "Команда", "cd:\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604626", "command": "cd", "args": ["/home"], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604663", "command": "echo", "args": ["\"\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604699", "command": "echo", "args": ["\"3.", "Переменные", "окружения:\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604776", "command": "echo", "args": ["\"HOME", "директория:", "/Users/kirill\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604818", "command": "echo", "args": ["\"\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604860", "command": "echo", "args": ["\"Стартовый", "скрипт", "выполнен", "успешно!\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:49.604901", "command": "echo", "args": ["\"========================================\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:50.423595", "command": "vfs_path:", "args": ["\"./vfs_data\""], "user": "kirill"}
+{"timestamp": "2025-12-03T11:11:58.054428", "command": "vfs_path", "args": [], "user": "kirill"}
+{"timestamp": "2025-12-03T11:12:15.365341", "command": "exit", "args": [], "user": "kirill"}

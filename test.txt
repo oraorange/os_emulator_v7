@@ -1,0 +1,6 @@
+# Запустите тестовый скрипт
+chmod +x test_runner.sh
+./test_runner.sh
+
+# Или тестируйте вручную
+python3 main.py --vfs-path "./test" --log-file "./test.log"

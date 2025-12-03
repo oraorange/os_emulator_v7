@@ -1,0 +1,3 @@
+vfs_path: "./from_config"
+log_file: "./from_config.log"
+start_script: "./nonexistent.sh"

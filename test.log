@@ -1,0 +1,706 @@
+[
+  {
+    "timestamp": "2025-12-03T11:17:41.603120",
+    "type": "startup",
+    "user": "kirill",
+    "hostname": "192"
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603328",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603436",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603532",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603630",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Добро",
+      "пожаловать",
+      "в",
+      "эмулятор",
+      "командной",
+      "строки!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603745",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Добро",
+      "пожаловать",
+      "в",
+      "эмулятор",
+      "командной",
+      "строки!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603850",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Добро",
+      "пожаловать",
+      "в",
+      "эмулятор",
+      "командной",
+      "строки!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.603961",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Версия",
+      "1.0",
+      "|",
+      "Вариант",
+      "7\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604084",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Версия",
+      "1.0",
+      "|",
+      "Вариант",
+      "7\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604202",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Версия",
+      "1.0",
+      "|",
+      "Вариант",
+      "7\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604343",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604603",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604737",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.604875",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605031",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605182",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605350",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Системная",
+      "информация:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605525",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Системная",
+      "информация:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605734",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Системная",
+      "информация:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.605947",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Пользователь:",
+      "$USER\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.606148",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Пользователь:",
+      "$USER\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.606358",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Пользователь:",
+      "$USER\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.606580",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Хост:",
+      "$(hostname)\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.606797",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Хост:",
+      "$(hostname)\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.607018",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Хост:",
+      "$(hostname)\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.607241",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.607455",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.607686",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.607920",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Тестирование",
+      "базовых",
+      "команд:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.608151",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Тестирование",
+      "базовых",
+      "команд:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.608384",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Тестирование",
+      "базовых",
+      "команд:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.608630",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"1.",
+      "Команда",
+      "1s:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.608879",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"1.",
+      "Команда",
+      "1s:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.609131",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"1.",
+      "Команда",
+      "1s:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.609395",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "1s",
+    "args": [
+      "-la"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.609668",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "1s",
+    "args": [
+      "-la"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.609942",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.610243",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.610523",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.610813",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"2.",
+      "Команда",
+      "cd:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.611099",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"2.",
+      "Команда",
+      "cd:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.611388",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"2.",
+      "Команда",
+      "cd:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.611697",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "cd",
+    "args": [
+      "/home"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.612005",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "cd",
+    "args": [
+      "/home"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.612306",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.612615",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.612923",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.613229",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"3.",
+      "Переменные",
+      "окружения:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.613534",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"3.",
+      "Переменные",
+      "окружения:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.613846",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"3.",
+      "Переменные",
+      "окружения:\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.614165",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"HOME",
+      "директория:",
+      "$HOME\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.614487",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"HOME",
+      "директория:",
+      "$HOME\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.614975",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"HOME",
+      "директория:",
+      "$HOME\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.615313",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.615657",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.615992",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.616381",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Стартовый",
+      "скрипт",
+      "выполнен",
+      "успешно!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.616818",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Стартовый",
+      "скрипт",
+      "выполнен",
+      "успешно!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.617236",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"Стартовый",
+      "скрипт",
+      "выполнен",
+      "успешно!\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.617656",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.618086",
+    "type": "unknown_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:17:41.618506",
+    "type": "script_command",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "echo",
+    "args": [
+      "\"========================================\""
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T11:18:32.131063",
+    "type": "command_exec",
+    "user": "kirill",
+    "hostname": "192",
+    "command": "exit"
+  },
+  {
+    "timestamp": "2025-12-03T11:18:32.134145",
+    "type": "exit",
+    "user": "kirill",
+    "hostname": "192"
+  }
+]
